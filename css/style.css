@@ -1,0 +1,86 @@
+.h1-section{
+    visibility: hidden;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.photo-list [h3]{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+}
+.photo-list [p]{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.sec1-btn2{
+    width: 116px;
+    height: 48px;
+    background: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+}
+
+.sec1-btn1{
+    width: 69px;
+    height: 48px;
+    background: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+}
+.sec1-btn3{
+    background: #F4F4FD;
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+    width: 78px;
+    height: 48px;
+}
+.sec1-btn4{
+    width: 101px;
+    height: 48px;
+    background: #F4F4FD;
+
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+}
+.sec1-btn5{
+    width: 126px;
+    height: 48px;
+    background: #F4F4FD;
+
+    border: 1px solid #E7E9FC;
+    border-radius: 4px;
+}
+.sec1-btn1:hover{
+    background-color: #404BBF;
+}
+.sec1-btn2:hover{
+    background-color: #404BBF;
+}
+.sec1-btn3:hover{
+    background-color: #404BBF;
+}
+.sec1-btn4:hover{
+    background-color: #404BBF;
+}
+.sec1-btn5:hover{
+    background-color: #404BBF;
+}
+.mail{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #434455;
+}
+.mail:hover{
+    color: #404BBF;
+}
+
+
+
