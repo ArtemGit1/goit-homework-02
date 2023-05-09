@@ -144,10 +144,10 @@ body{
 .address-list:focus{
     color: #404bbf;
 }
-.section1{
+.section{
     background-color: #2e2f42;
 }
-.section1-h1{
+.section-h{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
