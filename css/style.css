@@ -116,8 +116,8 @@ body{
     font-size: 16px;
 }
 
-.header-list-1:focus,
-.header-list-1:hover{
+.header-list:focus,
+.header-list:hover{
     color: #404bbf;
 }
 
@@ -133,7 +133,13 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.adress-1:hover,
-.adress-1:focus{
+.adress-list:hover,
+.adress-list:focus{
     color: #404bbf
+}
+.adress-list{
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
 }
