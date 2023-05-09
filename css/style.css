@@ -128,3 +128,12 @@ body{
 .header-list{
     color: #2e2f42;
 }
+.adress-1{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.adress-1:hover,
+.adress-1:focus{
+    color: #404bbf
+}
