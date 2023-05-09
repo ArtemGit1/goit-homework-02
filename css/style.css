@@ -116,7 +116,13 @@ body{
     color: #2e2f42;
 }
 
-.header-list:hover:focus{
+.header-list:hover{
     color: #404bbf;
+}
+.header-list-1{
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    color: #2e2f42;
 }
 
