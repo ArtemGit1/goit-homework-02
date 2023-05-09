@@ -104,7 +104,7 @@ body{
     color: #2e2f42;
 }
 
-.header-list{
+.list{
     list-style: none;
 }
 
@@ -115,3 +115,7 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+link{
+    text-decoration: none;
+}
+
