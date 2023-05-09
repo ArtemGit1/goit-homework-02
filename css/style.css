@@ -119,6 +119,9 @@ body{
 .header-list:hover{
     color: #404bbf;
 }
+.header-list:hover{
+        color: #404bbf;
+}
 .header-list-1{
     font-weight: 500;
     letter-spacing: 0.02em;
