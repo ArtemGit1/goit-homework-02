@@ -163,8 +163,8 @@ body{
     letter-spacing: 0.04em;
     color: #ffffff;
 }
-.section1-button:hover,
-.section1-button:focus{
+.section-button:hover,
+.section-button:focus{
     background-color: #404BBF;
     cursor: pointer;
 }
