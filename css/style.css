@@ -140,7 +140,7 @@ body{
     color: #434455;
     
 }
-.adress-list:hover,
-.adress-list:focus{
+.address-list:hover,
+.address-list:focus{
     color: #404bbf;
 }
