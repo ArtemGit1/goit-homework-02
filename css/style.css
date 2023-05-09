@@ -168,7 +168,7 @@ body{
     background-color: #404BBF;
     cursor: pointer;
 }
-.section-two-list-h3{
+.section-two-list-h{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -185,4 +185,16 @@ body{
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+}
+.section-four{
+    background-color: #F4F4FD;
+
+}
+.section-fout-list-one{
+    background-color: #FFFFFF;
+}
+.section-two-list-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
