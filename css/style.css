@@ -27,12 +27,14 @@ body{
     border-radius: 4px;
 }
 
-.sec1-btn1{
-    width: 69px;
-    height: 48px;
-    background: #F4F4FD;
-    border: 1px solid #E7E9FC;
-    border-radius: 4px;
+.sec-one-btn-one{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    cursor: pointer;
 }
 .sec1-btn3{
     background: #F4F4FD;
@@ -57,7 +59,9 @@ body{
     border: 1px solid #E7E9FC;
     border-radius: 4px;
 }
-.sec1-btn1:hover{
+.sec-one-btn-one:hover,
+.sec-one-btn-one:focus{
+    color: #FFFFFF;
     background-color: #404BBF;
 }
 .sec1-btn2:hover{
@@ -216,5 +220,5 @@ body{
 }
 .address-two{
     font-style: normal;
-    
+
 }
